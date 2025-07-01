@@ -7,7 +7,6 @@ Welcome to my random assortment of wonderful half finished projects. They are al
   - NuttX
   - Zephyr
   - PX4-Autopilot
-  - Linux (well maybe some day)
   - Teensy
   - MCU board projects
   - Cube Sat (just getting into this!) projects
